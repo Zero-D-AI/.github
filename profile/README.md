@@ -1,5 +1,5 @@
 # LLM-based Fuzzing Analysis System
-## ﻿LLM + MCP 기반 바이너리 취약점 자동 분석 시스템ㅊ
+## ﻿LLM + MCP 기반 바이너리 취약점 자동 분석 시스템
 
 
 ## 멤버 구성
