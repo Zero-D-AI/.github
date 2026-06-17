@@ -2,8 +2,6 @@
 
 > **설치 전 릴리스 계보 검증을 통한 공급망 공격 차단 도구**
 
-[![status](https://img.shields.io/badge/status-WIP-yellow)]()
-[![license](https://img.shields.io/badge/license-[LICENSE]-blue)]()
 
 ---
 
