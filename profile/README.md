@@ -51,14 +51,14 @@
 ```
 
 
-## 🧱 아키텍처
+## 아키텍처
 
 - **Collectors** — npm·GitHub·Sigstore/Rekor에서 증거 수집
 - **Lineage Reconstructor** — 증거를 계보 그래프로 조립
 - **Rule Engine** — 6개 규칙 + 신뢰 점수
 - **Gate** — 판정 결과로 설치 차단/허용
 
-## 🎯 지원 범위 & 한계
+## 지원 범위 & 한계
 
 - **지원:** npm (PyPI 예정)
 - **대상:** 공개 GitHub 소스 + provenance(attestation) 보유 패키지
@@ -66,7 +66,7 @@
 - 비공개 저장소는 검증 불가
 
 
-## 👥 팀
+## 팀
 
 | 역할 | 담당 |
 |---|---|
