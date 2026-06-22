@@ -77,4 +77,5 @@
 
 
 WBS
-<img width="1206" height="998" alt="image" src="https://github.com/user-attachments/assets/91759100-39bf-4f13-92a3-ac5325e89178" />
+<img width="1204" height="874" alt="image" src="https://github.com/user-attachments/assets/e1c24fc4-fd99-4218-970d-b0c3a7297cbe" />
+
