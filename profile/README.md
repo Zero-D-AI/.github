@@ -76,6 +76,6 @@
 | 통합·평가 | 미정 |
 
 
-WBS
+## WBS
 <img width="1204" height="874" alt="image" src="https://github.com/user-attachments/assets/e1c24fc4-fd99-4218-970d-b0c3a7297cbe" />
 
